@@ -2,4 +2,6 @@ git init = for initializing git repositary
 git status
 git add -A
 git commit _m "message"
+git remote -v
+git remote add name location(paste path of file)
 
